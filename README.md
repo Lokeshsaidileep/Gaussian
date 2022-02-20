@@ -41,7 +41,7 @@ for i in range(n):
 ```
 
 ## Output:
-![output](lur.png)
+![output](img123.png)
 
 
 ## Result:
